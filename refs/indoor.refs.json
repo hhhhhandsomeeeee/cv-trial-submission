@@ -1,0 +1,215 @@
+{
+  "clip": "iBbVocyi7jM8QqB_VID_20260509144917376_rallies",
+  "annotations": [
+    {
+      "frame_index": 0,
+      "visible": true,
+      "box": {
+        "x": 1035,
+        "y": 464,
+        "w": 98,
+        "h": 373
+      }
+    },
+    {
+      "frame_index": 50,
+      "visible": true,
+      "box": {
+        "x": 1018,
+        "y": 457,
+        "w": 134,
+        "h": 385
+      }
+    },
+    {
+      "frame_index": 100,
+      "visible": true,
+      "box": {
+        "x": 1024,
+        "y": 517,
+        "w": 171,
+        "h": 265
+      }
+    },
+    {
+      "frame_index": 150,
+      "visible": true,
+      "box": {
+        "x": 956,
+        "y": 468,
+        "w": 164,
+        "h": 340
+      }
+    },
+    {
+      "frame_index": 200,
+      "visible": true,
+      "box": {
+        "x": 736,
+        "y": 465,
+        "w": 168,
+        "h": 373
+      }
+    },
+    {
+      "frame_index": 250,
+      "visible": true,
+      "box": {
+        "x": 596,
+        "y": 459,
+        "w": 171,
+        "h": 373
+      }
+    },
+    {
+      "frame_index": 300,
+      "visible": true,
+      "box": {
+        "x": 596,
+        "y": 464,
+        "w": 183,
+        "h": 368
+      }
+    },
+    {
+      "frame_index": 350,
+      "visible": true,
+      "box": {
+        "x": 596,
+        "y": 456,
+        "w": 142,
+        "h": 379
+      }
+    },
+    {
+      "frame_index": 400,
+      "visible": true,
+      "box": {
+        "x": 612,
+        "y": 449,
+        "w": 195,
+        "h": 383
+      }
+    },
+    {
+      "frame_index": 450,
+      "visible": true,
+      "box": {
+        "x": 674,
+        "y": 488,
+        "w": 105,
+        "h": 314
+      }
+    },
+    {
+      "frame_index": 500,
+      "visible": true,
+      "box": {
+        "x": 637,
+        "y": 455,
+        "w": 181,
+        "h": 370
+      }
+    },
+    {
+      "frame_index": 550,
+      "visible": true,
+      "box": {
+        "x": 954,
+        "y": 457,
+        "w": 105,
+        "h": 372
+      }
+    },
+    {
+      "frame_index": 600,
+      "visible": true,
+      "box": {
+        "x": 1045,
+        "y": 456,
+        "w": 99,
+        "h": 388
+      }
+    },
+    {
+      "frame_index": 650,
+      "visible": true,
+      "box": {
+        "x": 1046,
+        "y": 388,
+        "w": 119,
+        "h": 449
+      }
+    },
+    {
+      "frame_index": 700,
+      "visible": true,
+      "box": {
+        "x": 1030,
+        "y": 468,
+        "w": 135,
+        "h": 366
+      }
+    },
+    {
+      "frame_index": 750,
+      "visible": true,
+      "box": {
+        "x": 1110,
+        "y": 459,
+        "w": 197,
+        "h": 377
+      }
+    },
+    {
+      "frame_index": 800,
+      "visible": true,
+      "box": {
+        "x": 1290,
+        "y": 473,
+        "w": 129,
+        "h": 347
+      }
+    },
+    {
+      "frame_index": 850,
+      "visible": true,
+      "box": {
+        "x": 873,
+        "y": 484,
+        "w": 253,
+        "h": 371
+      }
+    },
+    {
+      "frame_index": 900,
+      "visible": true,
+      "box": {
+        "x": 764,
+        "y": 488,
+        "w": 262,
+        "h": 368
+      }
+    },
+    {
+      "frame_index": 950,
+      "visible": true,
+      "box": {
+        "x": 1235,
+        "y": 455,
+        "w": 158,
+        "h": 402
+      }
+    },
+    {
+      "frame_index": 1000,
+      "visible": true,
+      "box": {
+        "x": 824,
+        "y": 444,
+        "w": 161,
+        "h": 427
+      }
+    }
+  ]
+}

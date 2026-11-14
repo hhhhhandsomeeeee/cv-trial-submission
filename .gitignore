@@ -1,0 +1,14 @@
+# Private assessment media: never commit.
+clips/*
+!clips/.gitkeep
+
+# Local environments and caches.
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Optional large diagnostics; final outputs and evidence remain trackable.
+out/evidence/*_debug.mp4

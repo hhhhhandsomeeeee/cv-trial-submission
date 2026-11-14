@@ -1,0 +1,323 @@
+{
+  "clip": "iBbVocyi7jM8QqB_VID_20260509144917376_rallies",
+  "baseline": {
+    "evaluated_frames": 21,
+    "mean_center_error": 0.019893,
+    "p95_center_error": 0.032072,
+    "max_center_error": 0.084704,
+    "target_center_outside_rate": 0.0,
+    "crop_jitter_normalized": 0.302199
+  },
+  "candidate": {
+    "evaluated_frames": 21,
+    "mean_center_error": 0.018719,
+    "p95_center_error": 0.056743,
+    "max_center_error": 0.073191,
+    "target_center_outside_rate": 0.0,
+    "crop_jitter_normalized": 0.288435
+  },
+  "improvement": {
+    "mean_center_error_reduction": 0.001174,
+    "relative_mean_reduction": 0.059016
+  },
+  "per_frame": {
+    "baseline": [
+      {
+        "frame_index": 0,
+        "error": 0.023026,
+        "target_center_outside": false,
+        "crop_x": 794,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 50,
+        "error": 0.001645,
+        "target_center_outside": false,
+        "crop_x": 782,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 100,
+        "error": 0.032072,
+        "target_center_outside": false,
+        "crop_x": 786,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 150,
+        "error": 0.011513,
+        "target_center_outside": false,
+        "crop_x": 741,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 200,
+        "error": 0.03125,
+        "target_center_outside": false,
+        "crop_x": 497,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 250,
+        "error": 0.007401,
+        "target_center_outside": false,
+        "crop_x": 373,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 300,
+        "error": 0.01727,
+        "target_center_outside": false,
+        "crop_x": 373,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 350,
+        "error": 0.026316,
+        "target_center_outside": false,
+        "crop_x": 379,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 400,
+        "error": 0.027138,
+        "target_center_outside": false,
+        "crop_x": 389,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 450,
+        "error": 0.01398,
+        "target_center_outside": false,
+        "crop_x": 431,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 500,
+        "error": 0.012336,
+        "target_center_outside": false,
+        "crop_x": 416,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 550,
+        "error": 0.012336,
+        "target_center_outside": false,
+        "crop_x": 695,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 600,
+        "error": 0.015625,
+        "target_center_outside": false,
+        "crop_x": 800,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 650,
+        "error": 0.009046,
+        "target_center_outside": false,
+        "crop_x": 796,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 700,
+        "error": 0.009046,
+        "target_center_outside": false,
+        "crop_x": 799,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 750,
+        "error": 0.01398,
+        "target_center_outside": false,
+        "crop_x": 913,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 800,
+        "error": 0.004112,
+        "target_center_outside": false,
+        "crop_x": 1048,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 850,
+        "error": 0.084704,
+        "target_center_outside": false,
+        "crop_x": 644,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 900,
+        "error": 0.024671,
+        "target_center_outside": false,
+        "crop_x": 576,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 950,
+        "error": 0.023026,
+        "target_center_outside": false,
+        "crop_x": 996,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 1000,
+        "error": 0.01727,
+        "target_center_outside": false,
+        "crop_x": 611,
+        "crop_w": 608
+      }
+    ],
+    "candidate": [
+      {
+        "frame_index": 0,
+        "error": 0.003289,
+        "target_center_outside": false,
+        "crop_x": 782,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 50,
+        "error": 0.009868,
+        "target_center_outside": false,
+        "crop_x": 787,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 100,
+        "error": 0.025493,
+        "target_center_outside": false,
+        "crop_x": 790,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 150,
+        "error": 0.008224,
+        "target_center_outside": false,
+        "crop_x": 729,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 200,
+        "error": 0.019737,
+        "target_center_outside": false,
+        "crop_x": 528,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 250,
+        "error": 0.009046,
+        "target_center_outside": false,
+        "crop_x": 372,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 300,
+        "error": 0.020559,
+        "target_center_outside": false,
+        "crop_x": 371,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 350,
+        "error": 0.003289,
+        "target_center_outside": false,
+        "crop_x": 365,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 400,
+        "error": 0.035362,
+        "target_center_outside": false,
+        "crop_x": 384,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 450,
+        "error": 0.007401,
+        "target_center_outside": false,
+        "crop_x": 427,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 500,
+        "error": 0.010691,
+        "target_center_outside": false,
+        "crop_x": 417,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 550,
+        "error": 0.035362,
+        "target_center_outside": false,
+        "crop_x": 681,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 600,
+        "error": 0.010691,
+        "target_center_outside": false,
+        "crop_x": 797,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 650,
+        "error": 0.010691,
+        "target_center_outside": false,
+        "crop_x": 795,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 700,
+        "error": 0.007401,
+        "target_center_outside": false,
+        "crop_x": 789,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 750,
+        "error": 0.056743,
+        "target_center_outside": false,
+        "crop_x": 870,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 800,
+        "error": 0.007401,
+        "target_center_outside": false,
+        "crop_x": 1055,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 850,
+        "error": 0.012336,
+        "target_center_outside": false,
+        "crop_x": 703,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 900,
+        "error": 0.013158,
+        "target_center_outside": false,
+        "crop_x": 583,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 950,
+        "error": 0.013158,
+        "target_center_outside": false,
+        "crop_x": 1002,
+        "crop_w": 608
+      },
+      {
+        "frame_index": 1000,
+        "error": 0.073191,
+        "target_center_outside": false,
+        "crop_x": 645,
+        "crop_w": 608
+      }
+    ]
+  }
+}

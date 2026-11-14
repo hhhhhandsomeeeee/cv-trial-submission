@@ -1,0 +1,215 @@
+{
+  "clip": "9055",
+  "annotations": [
+    {
+      "frame_index": 0,
+      "visible": true,
+      "box": {
+        "x": 589,
+        "y": 305,
+        "w": 78,
+        "h": 181
+      }
+    },
+    {
+      "frame_index": 20,
+      "visible": true,
+      "box": {
+        "x": 585,
+        "y": 312,
+        "w": 93,
+        "h": 174
+      }
+    },
+    {
+      "frame_index": 40,
+      "visible": true,
+      "box": {
+        "x": 597,
+        "y": 338,
+        "w": 90,
+        "h": 142
+      }
+    },
+    {
+      "frame_index": 60,
+      "visible": true,
+      "box": {
+        "x": 629,
+        "y": 332,
+        "w": 73,
+        "h": 140
+      }
+    },
+    {
+      "frame_index": 80,
+      "visible": true,
+      "box": {
+        "x": 600,
+        "y": 318,
+        "w": 66,
+        "h": 157
+      }
+    },
+    {
+      "frame_index": 100,
+      "visible": true,
+      "box": {
+        "x": 529,
+        "y": 323,
+        "w": 88,
+        "h": 159
+      }
+    },
+    {
+      "frame_index": 120,
+      "visible": true,
+      "box": {
+        "x": 483,
+        "y": 305,
+        "w": 141,
+        "h": 182
+      }
+    },
+    {
+      "frame_index": 140,
+      "visible": true,
+      "box": {
+        "x": 495,
+        "y": 272,
+        "w": 104,
+        "h": 222
+      }
+    },
+    {
+      "frame_index": 160,
+      "visible": true,
+      "box": {
+        "x": 512,
+        "y": 290,
+        "w": 100,
+        "h": 202
+      }
+    },
+    {
+      "frame_index": 180,
+      "visible": true,
+      "box": {
+        "x": 558,
+        "y": 297,
+        "w": 66,
+        "h": 191
+      }
+    },
+    {
+      "frame_index": 200,
+      "visible": true,
+      "box": {
+        "x": 567,
+        "y": 304,
+        "w": 83,
+        "h": 182
+      }
+    },
+    {
+      "frame_index": 220,
+      "visible": true,
+      "box": {
+        "x": 532,
+        "y": 306,
+        "w": 93,
+        "h": 183
+      }
+    },
+    {
+      "frame_index": 240,
+      "visible": true,
+      "box": {
+        "x": 548,
+        "y": 302,
+        "w": 78,
+        "h": 179
+      }
+    },
+    {
+      "frame_index": 260,
+      "visible": true,
+      "box": {
+        "x": 525,
+        "y": 304,
+        "w": 74,
+        "h": 189
+      }
+    },
+    {
+      "frame_index": 280,
+      "visible": true,
+      "box": {
+        "x": 535,
+        "y": 305,
+        "w": 62,
+        "h": 175
+      }
+    },
+    {
+      "frame_index": 300,
+      "visible": true,
+      "box": {
+        "x": 540,
+        "y": 312,
+        "w": 54,
+        "h": 166
+      }
+    },
+    {
+      "frame_index": 320,
+      "visible": true,
+      "box": {
+        "x": 547,
+        "y": 321,
+        "w": 63,
+        "h": 155
+      }
+    },
+    {
+      "frame_index": 340,
+      "visible": true,
+      "box": {
+        "x": 530,
+        "y": 332,
+        "w": 74,
+        "h": 143
+      }
+    },
+    {
+      "frame_index": 360,
+      "visible": true,
+      "box": {
+        "x": 567,
+        "y": 336,
+        "w": 65,
+        "h": 130
+      }
+    },
+    {
+      "frame_index": 380,
+      "visible": true,
+      "box": {
+        "x": 555,
+        "y": 339,
+        "w": 47,
+        "h": 123
+      }
+    },
+    {
+      "frame_index": 400,
+      "visible": true,
+      "box": {
+        "x": 554,
+        "y": 344,
+        "w": 38,
+        "h": 116
+      }
+    }
+  ]
+}

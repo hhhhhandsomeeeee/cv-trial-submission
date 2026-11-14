@@ -1,0 +1,27 @@
+{
+  "detector": {
+    "model_url": "https://tfhub.dev/google/movenet/multipose/lightning/1",
+    "input_size": 256,
+    "confidence_threshold": 0.2
+  },
+  "tracking": {
+    "min_match_score": 0.43,
+    "max_missing_frames": 20,
+    "position_weight": 0.35,
+    "appearance_weight": 0.35,
+    "iou_weight": 0.2,
+    "size_weight": 0.1,
+    "max_center_distance_ratio": 2.5,
+    "appearance_update_threshold": 0.72,
+    "appearance_update_rate": 0.08,
+    "velocity_update_rate": 0.35
+  },
+  "crop": {
+    "output_width": 1080,
+    "output_height": 1920,
+    "smoothing_alpha": 0.22,
+    "reacquired_alpha": 0.42,
+    "max_speed_ratio": 0.045,
+    "target_vertical_position": 0.52
+  }
+}
